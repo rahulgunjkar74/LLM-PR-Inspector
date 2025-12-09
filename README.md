@@ -100,4 +100,4 @@ Clean modular Python structure
 Developer
 
 Rahul Gunjkar
-Built with ❤️ using Python, Groq, and GitHub API.
+Built using Python, Groq, and GitHub API.
